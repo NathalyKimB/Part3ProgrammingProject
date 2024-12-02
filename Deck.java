@@ -70,13 +70,13 @@ public void printDeck() {
             System.out.println(deck[i]);
         }
     }
-    
-/*public int getNumCards() {
+}    
+public int getNumCards() {
     return numCards;
 }
 
 public int getSize() {
     return deck.length;
-}*/
+    }
 }
-}
+
